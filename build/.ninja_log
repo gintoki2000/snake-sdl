@@ -1,0 +1,4 @@
+# ninja log v5
+0	407	1563629117	snake-sdl@exe/src_main.c.o	d0b18e5fd231c865
+408	495	1563629117	snake-sdl	26c3de8d5df2a6d
+1	387	0	meson-install	e81cc1eb8ad4718c

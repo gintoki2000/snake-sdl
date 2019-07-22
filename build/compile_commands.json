@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/ngothoitrung/Projects/snake-sdl/build",
+    "command": "cc -Isnake-sdl@exe -I. -I.. -I/usr/include/SDL2 -I/home/ngothoitrung/Projects/snake-sdl/build -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -g -D_REENTRANT -MD -MQ 'snake-sdl@exe/src_main.c.o' -MF 'snake-sdl@exe/src_main.c.o.d' -o 'snake-sdl@exe/src_main.c.o' -c ../src/main.c",
+    "file": "../src/main.c"
+  }
+]
